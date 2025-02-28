@@ -19,6 +19,7 @@ In this part, we will see some advance notes on PCB design. these notes are not 
 
 
 ## VHDL Coding Notes
+* A great list of HDL related resources provided [here](https://github.com/drom/awesome-hdl)
 
 
 ## Advanced C Coding Notes
